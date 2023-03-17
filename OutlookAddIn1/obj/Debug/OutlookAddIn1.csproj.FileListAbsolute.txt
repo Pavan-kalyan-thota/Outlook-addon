@@ -1,0 +1,13 @@
+D:\practice\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll
+D:\practice\OutlookAddIn1\bin\Debug\OutlookAddIn1.pdb
+D:\practice\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll.manifest
+D:\practice\OutlookAddIn1\bin\Debug\OutlookAddIn1.vsto
+D:\practice\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\practice\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\practice\OutlookAddIn1\obj\Debug\OutlookAddIn1.csproj.AssemblyReference.cache
+D:\practice\OutlookAddIn1\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+D:\practice\OutlookAddIn1\obj\Debug\OutlookAddIn1.csproj.GenerateResource.cache
+D:\practice\OutlookAddIn1\obj\Debug\OutlookAddIn1.csproj.CoreCompileInputs.cache
+D:\practice\OutlookAddIn1\obj\Debug\OutlookAddIn1.csproj.CopyComplete
+D:\practice\OutlookAddIn1\obj\Debug\OutlookAddIn1.dll
+D:\practice\OutlookAddIn1\obj\Debug\OutlookAddIn1.pdb
